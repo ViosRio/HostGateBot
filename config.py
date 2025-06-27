@@ -15,3 +15,8 @@ SUDO=os.environ.get("SUDO","5910057231")
 SUPPORT_GRP = os.environ.get("SUPPORT_GRP","Bot4Chan")
 
 # FTP ACCOUNT
+
+FTP_SERVER = os.environ.get("FTP_SERVER","")
+FTP_USERNAME = os.environ.get("FTP_USERNAME","ezyro_39314675")
+FTP_PASSWORD = os.environ.get("FTP_PASSWORD","0b72dc45171f")
+FTP_PORT = os.environ.get("FTP_PORT","21")
