@@ -1,4 +1,3 @@
-#
 
 #-----------CREDITS -----------
 # telegram : @legend_coder
@@ -79,11 +78,11 @@ PNG_BTN = [
          ),
      ],
 ]
-SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('sᴏᴜʀᴄᴇ', url=f"{SOURCE}")]])
+SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('Kaynak', url=f"{SOURCE}")]])
 HELP_READ = "**KULLANIM :**  \n\n• /send = Dosya Gönderim\n • /ping = Bot Sağlık Sorunları\n\nBot Version 2.1"
 HELP_BACK = [
      [
-           InlineKeyboardButton(text="ᴋᴀʏɴᴀᴋ ", url=f"https://github.com/zeedslowy/ThenaAi"),
+           InlineKeyboardButton(text="ANA DOMAİN", url=f"https://riotex.unaux.com/"),
            
      ],
     [
